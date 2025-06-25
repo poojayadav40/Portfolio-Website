@@ -7,12 +7,12 @@
     --color-white: rgb(255, 255, 255);
 
     --text-color-second: rgb(68, 68, 68);
-    --text-color-third: rgb(131, 48, 30);
+    --text-color-third: black;
 
-    --first-color: rgb(131, 48, 30);
+    --first-color: black;
     --first-color-hover: rgb(40, 91, 212);
 
-    --second-color: rgb(131, 48, 30);
+    --second-color: black;
     --third-color: rgb(222, 211, 2);
     --first-shadow-color: rgba(0, 0, 0, 0.1);
 

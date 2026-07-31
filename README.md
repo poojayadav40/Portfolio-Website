@@ -24,6 +24,11 @@ A personal portfolio website showcasing my projects, skills, and background.
 
 ---
 
+#Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/c5b56442-8446-44fc-88e9-909171cb1d25" />
+
+
 ## 💻 Local Setup & Development
 
 To run this project locally on your machine:
